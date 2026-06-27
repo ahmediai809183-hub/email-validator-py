@@ -6,9 +6,7 @@ A fast and professional email verification tool for Python.
 
 ```bash
 pip install requests
-## Usage
 
-```python
 from email_validator import EmailValidator
 
 # For testing/demo purposes:
