@@ -18,3 +18,4 @@ print(validator.check("test@example.com"))
 # [https://email-validator.lemonsqueezy.com/checkout/buy/3290c236-c717-4508-a993-b5ffa4e7a260](https://email-validator.lemonsqueezy.com/checkout/buy/3290c236-c717-4508-a993-b5ffa4e7a260)
 validator = EmailValidator(api_key="YOUR_MASTER_KEY")
 print(validator.check("client@company.com"))
+ 
